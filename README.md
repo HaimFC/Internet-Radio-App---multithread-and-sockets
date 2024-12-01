@@ -44,16 +44,16 @@ The client application transitions through different states as defined in `radio
 2. **Welcome Waiting State**: Awaits a "Welcome" message from the server.
 3. **Established State**: Streams songs and processes user commands.
 4. **Upload Waiting State**: Handles song uploads.
-![Alt Text](path/to/image.png)
+
 ---
 
 ## State Diagrams
 
 ### Server State Diagram
-![Server State Diagram](sandbox:/mnt/data/image.png)
+![Server State Diagram](serverState.png)
 
 ### Client State Diagram
-![Client State Diagram](sandbox:/mnt/data/image.png)
+![Client State Diagram](clientState.png)
 
 ---
 
